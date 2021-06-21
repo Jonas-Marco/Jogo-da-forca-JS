@@ -14,7 +14,7 @@ O jogador é apresentado a um quebra-cabeça, geralmente uma frase ou título co
 
 INSTRUÇÕES: 
 
-Assim que abrir o arquivo index.html o jogador deverá apertar a Tecla f12 para abrir o console e abrir o jogo. Um menu será apresentado no console, o jogador poderá usar os seguintes commandos:
+Assim que abrir o arquivo index.html o jogador deverá apertar a Tecla f12 para abrir o console e abrir o jogo. Um menu será apresentado no console, o jogador poderá usar os seguintes comandos:
 
 start() - inicia o jogo com uma nova palavra.
 
